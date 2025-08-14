@@ -47,7 +47,7 @@ def main():
             }
 
     train_rows = [to_row(x) for x in train_ds]
-    train_rows = [x for x in train_rows if x] # remove None
+    train_rows = [x for x in train_rows if x] # remove None: when intent or snippet is None
     val_rows   = [to_row(x) for x in val_ds]
     val_rows   = [x for x in val_rows if x] # remove None
 
