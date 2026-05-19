@@ -2,7 +2,7 @@
 
 ## Learning
 
-This repository documents my learning experience with fine-tuning the Qwen2.5-Coder-3B-Instruct model using LoRA (Low-Rank Adaptation) on the CoNaLa dataset.
+This repository documents how I fine-tune the Qwen2.5-Coder-3B-Instruct model using LoRA (Low-Rank Adaptation) on the CoNaLa dataset.
 
 ## Documents
 
